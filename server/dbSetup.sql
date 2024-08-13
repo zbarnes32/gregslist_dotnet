@@ -26,7 +26,7 @@ CREATE TABLE
 
   SELECT * FROM accounts WHERE id = "66a01f1b3c6756484d577837"
 
-  SELECT * FROM houses JOIN accounts ON accounts.id = houses.creatorId;
+  SELECT houses.*, accounts.* FROM houses JOIN accounts ON accounts.id = houses.creatorId;
 
 
   INSERT INTO
