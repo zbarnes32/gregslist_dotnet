@@ -37,11 +37,11 @@ CREATE TABLE
     )
     VALUES
     (
-      "375321",
-      "2020",
-      "2",
-      "1",
-      "A cute starter house that is perfect for a first time home buyer.",
-      "https://images.unsplash.com/photo-1434082033009-b81d41d32e1c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG91c2V8ZW58MHx8MHx8fDA%3D",
+      "10750000",
+      "2024",
+      "5",
+      "5",
+      "Mini mansion",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bWFuc2lvbnxlbnwwfHwwfHx8MA%3D%3D",
       "66a01f1b3c6756484d577837"
     )
