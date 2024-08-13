@@ -24,6 +24,10 @@ CREATE TABLE
     FOREIGN KEY (creatorId) REFERENCES accounts (id) ON DELETE CASCADE
   );
 
+  SELECT * FROM accounts WHERE id = "66a01f1b3c6756484d577837"
+
+  SELECT * FROM houses JOIN accounts ON accounts.id = houses.creatorId;
+
 
   INSERT INTO
     houses (
